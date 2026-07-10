@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project3_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|solutionrelative:netcoreai.project3_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project3_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|solutionrelative:netcoreai.project3_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 646,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +35,32 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiSeriesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "RelativeToolTip": "NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T14:21:57.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project3_RapidApi\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project3_RapidApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T14:16:48.715Z",
+              "EditorCaption": ""
             }
           ]
         },
