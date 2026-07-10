@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CWcHQj7Hi9k=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project2_ApiConsumeUI\\NetCoreAI.Project2_ApiConsumeUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURHAN\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

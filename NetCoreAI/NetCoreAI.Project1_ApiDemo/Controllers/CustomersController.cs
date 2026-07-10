@@ -48,7 +48,7 @@ namespace NetCoreAI.Project1_ApiDemo.Controllers
             {
                 return BadRequest("Bu ID'ye Ait Bir Müşteri Kaydı Bulunamadı");
             }
-            return Ok("Müşteri Kaydı Başarıyla Getirildi");
+            return Ok(value);
         }
 
         [HttpPut]

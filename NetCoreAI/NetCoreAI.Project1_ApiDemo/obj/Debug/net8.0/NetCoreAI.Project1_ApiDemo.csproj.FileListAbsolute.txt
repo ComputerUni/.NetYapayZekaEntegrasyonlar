@@ -145,3 +145,4 @@ C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project1_ApiDemo\obj\Debug
 C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project1_ApiDemo\obj\Debug\net8.0\NetCoreAI.Project1_ApiDemo.pdb
 C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project1_ApiDemo\obj\Debug\net8.0\NetCoreAI.Project1_ApiDemo.genruntimeconfig.cache
 C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project1_ApiDemo\obj\Debug\net8.0\ref\NetCoreAI.Project1_ApiDemo.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project1_ApiDemo\obj\Debug\net8.0\NetCoreAI.Project1_ApiDemo.sourcelink.json
