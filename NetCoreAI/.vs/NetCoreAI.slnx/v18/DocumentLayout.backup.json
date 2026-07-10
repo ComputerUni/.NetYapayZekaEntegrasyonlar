@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project3_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|solutionrelative:netcoreai.project3_rapidapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project3_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4485B5C-32E8-4892-BABE-61261B8EE9F6}|NetCoreAI.Project3_RapidApi\\NetCoreAI.Project3_RapidApi.csproj|solutionrelative:netcoreai.project3_rapidapi\\viewmodels\\apiseriesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{81D4F865-ADD6-4810-85AE-411A406C8177}|NetCoreAI.Project4_OpenAIChat\\NetCoreAI.Project4_OpenAIChat.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project4_openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81D4F865-ADD6-4810-85AE-411A406C8177}|NetCoreAI.Project4_OpenAIChat\\NetCoreAI.Project4_OpenAIChat.csproj|solutionrelative:netcoreai.project4_openaichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 646,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,28 +34,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApiSeriesViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
-              "RelativeToolTip": "NetCoreAI.Project3_RapidApi\\ViewModels\\ApiSeriesViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T14:21:57.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project3_RapidApi\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project3_RapidApi\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project3_RapidApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABtAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project4_OpenAIChat\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project4_OpenAIChat\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project4_OpenAIChat\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project4_OpenAIChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-10T14:16:48.715Z",
+              "WhenOpened": "2026-07-10T14:59:00.65Z",
               "EditorCaption": ""
             }
           ]
