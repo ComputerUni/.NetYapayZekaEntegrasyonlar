@@ -12,7 +12,7 @@ var request = new HttpRequestMessage
     RequestUri = new Uri("https://imdb-top-100-movies.p.rapidapi.com/series/"),
     Headers =
     {
-        { "x-rapidapi-key", "c463c8364dmsh488787b2fde641dp1da61djsn746529f67d51" },
+        { "x-rapidapi-key", "buraya key gelecek" },
         { "x-rapidapi-host", "imdb-top-100-movies.p.rapidapi.com" },
     },
 };
