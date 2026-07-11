@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{712722F2-6FBE-40C5-ACEB-F57C4F836846}|NetCoreAI.Project7_TesseractOCR\\NetCoreAI.Project7_TesseractOCR.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project7_tesseractocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{712722F2-6FBE-40C5-ACEB-F57C4F836846}|NetCoreAI.Project7_TesseractOCR\\NetCoreAI.Project7_TesseractOCR.csproj|solutionrelative:netcoreai.project7_tesseractocr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{618BD7A5-A1D5-4FDE-AEFA-47113A5C9048}|NetCoreAI.Project8_GoogleCloudVision\\NetCoreAI.Project8_GoogleCloudVision.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project8_googlecloudvision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{618BD7A5-A1D5-4FDE-AEFA-47113A5C9048}|NetCoreAI.Project8_GoogleCloudVision\\NetCoreAI.Project8_GoogleCloudVision.csproj|solutionrelative:netcoreai.project8_googlecloudvision\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project7_TesseractOCR\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project7_TesseractOCR\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project7_TesseractOCR\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project7_TesseractOCR\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABPAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project8_GoogleCloudVision\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project8_GoogleCloudVision\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project8_GoogleCloudVision\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project8_GoogleCloudVision\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T11:16:52.428Z",
+              "WhenOpened": "2026-07-11T12:16:27.87Z",
               "EditorCaption": ""
             }
           ]
