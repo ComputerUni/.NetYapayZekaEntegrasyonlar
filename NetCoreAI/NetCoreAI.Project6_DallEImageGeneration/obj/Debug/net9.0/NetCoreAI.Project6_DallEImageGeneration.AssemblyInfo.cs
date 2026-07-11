@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project6_DallEImageGeneration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028c641df90e85bbaca73dbcaee208b04638d86a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44398d0e18530812d2398e7ed6aca13a092e14e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project6_DallEImageGeneration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project6_DallEImageGeneration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

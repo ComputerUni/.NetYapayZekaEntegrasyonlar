@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46F293BE-EB11-4BA4-BFD7-0EC460B75164}|NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project10_texttospeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46F293BE-EB11-4BA4-BFD7-0EC460B75164}|NetCoreAI.Project10_TextToSpeech\\NetCoreAI.Project10_TextToSpeech.csproj|solutionrelative:netcoreai.project10_texttospeech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EED55D23-ACB9-4C52-A6A3-D87B689FEA41}|NetCoreAI.Project11_TextToSpeechAI\\NetCoreAI.Project11_TextToSpeechAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project11_texttospeechai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EED55D23-ACB9-4C52-A6A3-D87B689FEA41}|NetCoreAI.Project11_TextToSpeechAI\\NetCoreAI.Project11_TextToSpeechAI.csproj|solutionrelative:netcoreai.project11_texttospeechai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project10_TextToSpeech\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project10_TextToSpeech\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project10_TextToSpeech\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project11_TextToSpeechAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project11_TextToSpeechAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project11_TextToSpeechAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project11_TextToSpeechAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-11T14:31:48.001Z",
+              "WhenOpened": "2026-07-11T15:21:54.816Z",
               "EditorCaption": ""
             }
           ]

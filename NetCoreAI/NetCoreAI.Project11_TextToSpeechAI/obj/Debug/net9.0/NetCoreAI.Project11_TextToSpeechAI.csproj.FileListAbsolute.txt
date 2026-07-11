@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.exe
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\bin\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\refint\NetCoreAI.Project11_TextToSpeechAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\NetCoreAI.Project11_TextToSpeechAI.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project11_TextToSpeechAI\obj\Debug\net9.0\ref\NetCoreAI.Project11_TextToSpeechAI.dll
