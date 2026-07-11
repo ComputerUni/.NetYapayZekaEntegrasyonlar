@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project5_OpenWhisperAudioTranskript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a14df7ba9b497f2a41f6ceae81dad2a7d11d4fe9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028c641df90e85bbaca73dbcaee208b04638d86a")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project5_OpenWhisperAudioTranskript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project5_OpenWhisperAudioTranskript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
