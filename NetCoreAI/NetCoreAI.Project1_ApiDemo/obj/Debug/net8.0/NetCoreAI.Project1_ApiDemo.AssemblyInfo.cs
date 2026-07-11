@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project1_ApiDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af79734598ec138d2cc9a648e44fe33a7afdc102")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+36029fa45c433688a91129650dca308b257d691c")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project1_ApiDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project1_ApiDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
