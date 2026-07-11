@@ -5,9 +5,10 @@ using System.Text.Json.Serialization;
 
 class Program
 {
+
     public static async Task Main(string[] args)
     {
-        string apiKey = "your_api_key";
+        string apiKey = "api_key";
         Console.Write("Example prompts: ");
         string prompt = Console.ReadLine();
         using (HttpClient client = new HttpClient())
@@ -15,13 +16,13 @@ class Program
             client.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", apiKey);
             var requestBody = new
             {
-                model = "openai/dall-e-3",
                 prompt = prompt,
-                size = "1024x1024"
+                n = 1,
+                size = "512x512"   
             };
             string jsonBody = JsonConvert.SerializeObject(requestBody);
             var content = new StringContent(jsonBody, Encoding.UTF8, "application/json");
-            HttpResponseMessage response = await client.PostAsync("https://openrouter.ai/api/v1/images/generations", content);
+            HttpResponseMessage response = await client.PostAsync("https://api.openai.com/v1/images/generations", content);
             string responseString = await response.Content.ReadAsStringAsync();
             Console.WriteLine(responseString);
         }
