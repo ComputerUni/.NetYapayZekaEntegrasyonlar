@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fBzD+JzJZqk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project15_PdfAnalyzeAI\\NetCoreAI.Project15_PdfAnalyzeAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\pdfpig\\0.1.15\\pdfpig.0.1.15.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\pdfsharp\\6.2.4\\pdfsharp.6.2.4.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\system.security.cryptography.pkcs\\8.0.1\\system.security.cryptography.pkcs.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

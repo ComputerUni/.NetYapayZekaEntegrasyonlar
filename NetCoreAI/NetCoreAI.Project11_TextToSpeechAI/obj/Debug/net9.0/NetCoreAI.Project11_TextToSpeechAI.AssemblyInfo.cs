@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project11_TextToSpeechAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50c393614edec9fda1f832ff81097a0126445b9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+552f85fd40e305b6a7653b500a90a25c08c3446f")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project11_TextToSpeechAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project11_TextToSpeechAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

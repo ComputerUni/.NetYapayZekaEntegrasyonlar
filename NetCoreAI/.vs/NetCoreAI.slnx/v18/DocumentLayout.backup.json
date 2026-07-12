@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B777F15-9A0F-4AF2-A787-95F5205EFDC9}|NetCoreAI.Project14_WebScrapingAI\\NetCoreAI.Project14_WebScrapingAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project14_webscrapingai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B777F15-9A0F-4AF2-A787-95F5205EFDC9}|NetCoreAI.Project14_WebScrapingAI\\NetCoreAI.Project14_WebScrapingAI.csproj|solutionrelative:netcoreai.project14_webscrapingai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23B60D7C-8A04-4701-87FC-2E44DF903477}|NetCoreAI.Project15_PdfAnalyzeAI\\NetCoreAI.Project15_PdfAnalyzeAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project15_pdfanalyzeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23B60D7C-8A04-4701-87FC-2E44DF903477}|NetCoreAI.Project15_PdfAnalyzeAI\\NetCoreAI.Project15_PdfAnalyzeAI.csproj|solutionrelative:netcoreai.project15_pdfanalyzeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,13 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project14_WebScrapingAI\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project14_WebScrapingAI\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project14_WebScrapingAI\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project14_WebScrapingAI\\Program.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAAwFUAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project15_PdfAnalyzeAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project15_PdfAnalyzeAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project15_PdfAnalyzeAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project15_PdfAnalyzeAI\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwDAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T11:08:51.395Z",
+              "WhenOpened": "2026-07-12T12:36:28.196Z",
               "EditorCaption": ""
             }
           ]
