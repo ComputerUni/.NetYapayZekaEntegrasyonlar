@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\bin\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.exe
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\bin\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\bin\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\bin\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\bin\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\refint\NetCoreAI.Project16_GoogleCloudVisionImageDetection.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\NetCoreAI.Project16_GoogleCloudVisionImageDetection.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project16_GoogleCloudVisionImageDetection\obj\Debug\net9.0\ref\NetCoreAI.Project16_GoogleCloudVisionImageDetection.dll
