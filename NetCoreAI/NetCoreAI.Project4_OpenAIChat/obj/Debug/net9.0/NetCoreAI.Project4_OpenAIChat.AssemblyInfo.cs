@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project4_OpenAIChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64abba316d5efaa68240604158f18f7c16c555d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46b9060b5f806f5a6de74ebbffe48693effaa31")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project4_OpenAIChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project4_OpenAIChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

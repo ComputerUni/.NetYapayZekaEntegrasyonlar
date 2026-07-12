@@ -2,6 +2,7 @@
   <Project Path="NetCoreAI.Project10_TextToSpeech/NetCoreAI.Project10_TextToSpeech.csproj" Id="46f293be-eb11-4ba4-bfd7-0ec460b75164" />
   <Project Path="NetCoreAI.Project11_TextToSpeechAI/NetCoreAI.Project11_TextToSpeechAI.csproj" Id="eed55d23-acb9-4c52-a6a3-d87b689fea41" />
   <Project Path="NetCoreAI.Project12_SentimentAnalyzer/NetCoreAI.Project12_SentimentAnalyzer.csproj" Id="e2b15826-25c7-4f96-91f0-067063ad0199" />
+  <Project Path="NetCoreAI.Project13_ArticleSummarizeAI/NetCoreAI.Project13_ArticleSummarizeAI.csproj" Id="3a962840-abb1-4210-b4ed-1ea056d994de" />
   <Project Path="NetCoreAI.Project1_ApiDemo/NetCoreAI.Project1_ApiDemo.csproj" />
   <Project Path="NetCoreAI.Project2_ApiConsumeUI/NetCoreAI.Project2_ApiConsumeUI.csproj" Id="20c696ba-3d5d-40cd-9818-6466622671e1" />
   <Project Path="NetCoreAI.Project3_RapidApi/NetCoreAI.Project3_RapidApi.csproj" Id="f4485b5c-32e8-4892-babe-61261b8ee9f6" />
