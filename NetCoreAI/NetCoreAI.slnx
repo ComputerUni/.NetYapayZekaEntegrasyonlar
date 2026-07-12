@@ -8,6 +8,7 @@
   <Project Path="NetCoreAI.Project16_GoogleCloudVisionImageDetection/NetCoreAI.Project16_GoogleCloudVisionImageDetection.csproj" Id="459fcf8c-f559-49fd-8e5b-7bfadb367119" />
   <Project Path="NetCoreAI.Project17_NewsSummarizeAI/NetCoreAI.Project17_NewsSummarizeAI.csproj" Id="73f51f28-1350-4b92-816d-8797faff245b" />
   <Project Path="NetCoreAI.Project18_CreateStoryAI/NetCoreAI.Project18_CreateStoryAI.csproj" Id="769022f1-740b-4d75-a7e1-f8bf9de186c5" />
+  <Project Path="NetCoreAI.Project19_RecipeSuggestionAI/NetCoreAI.Project19_RecipeSuggestionAI.csproj" Id="f0b529b9-59d2-4292-9ef9-4e4ee611b135" />
   <Project Path="NetCoreAI.Project1_ApiDemo/NetCoreAI.Project1_ApiDemo.csproj" />
   <Project Path="NetCoreAI.Project2_ApiConsumeUI/NetCoreAI.Project2_ApiConsumeUI.csproj" Id="20c696ba-3d5d-40cd-9818-6466622671e1" />
   <Project Path="NetCoreAI.Project3_RapidApi/NetCoreAI.Project3_RapidApi.csproj" Id="f4485b5c-32e8-4892-babe-61261b8ee9f6" />

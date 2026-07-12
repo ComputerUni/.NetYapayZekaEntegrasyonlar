@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{769022F1-740B-4D75-A7E1-F8BF9DE186C5}|NetCoreAI.Project18_CreateStoryAI\\NetCoreAI.Project18_CreateStoryAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project18_createstoryai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{769022F1-740B-4D75-A7E1-F8BF9DE186C5}|NetCoreAI.Project18_CreateStoryAI\\NetCoreAI.Project18_CreateStoryAI.csproj|solutionrelative:netcoreai.project18_createstoryai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project19_recipesuggestionai\\views\\recipe\\createrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|solutionrelative:netcoreai.project19_recipesuggestionai\\views\\recipe\\createrecipe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{73F51F28-1350-4B92-816D-8797FAFF245B}|NetCoreAI.Project17_NewsSummarizeAI\\NetCoreAI.Project17_NewsSummarizeAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project17_newssummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{73F51F28-1350-4B92-816D-8797FAFF245B}|NetCoreAI.Project17_NewsSummarizeAI\\NetCoreAI.Project17_NewsSummarizeAI.csproj|solutionrelative:netcoreai.project17_newssummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project19_recipesuggestionai\\models\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|solutionrelative:netcoreai.project19_recipesuggestionai\\models\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project19_recipesuggestionai\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|solutionrelative:netcoreai.project19_recipesuggestionai\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project19_recipesuggestionai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0B529B9-59D2-4292-9EF9-4E4EE611B135}|NetCoreAI.Project19_RecipeSuggestionAI\\NetCoreAI.Project19_RecipeSuggestionAI.csproj|solutionrelative:netcoreai.project19_recipesuggestionai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,27 +46,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAwwEYAAAAIAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project19_RecipeSuggestionAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project19_RecipeSuggestionAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T15:07:26.696Z"
+              "WhenOpened": "2026-07-12T20:53:31.988Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project18_CreateStoryAI\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project18_CreateStoryAI\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project18_CreateStoryAI\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project18_CreateStoryAI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Title": "CreateRecipe.cshtml",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Views\\Recipe\\CreateRecipe.cshtml",
+              "RelativeDocumentMoniker": "NetCoreAI.Project19_RecipeSuggestionAI\\Views\\Recipe\\CreateRecipe.cshtml",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Views\\Recipe\\CreateRecipe.cshtml",
+              "RelativeToolTip": "NetCoreAI.Project19_RecipeSuggestionAI\\Views\\Recipe\\CreateRecipe.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwFIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-12T20:48:35.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project19_RecipeSuggestionAI\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "NetCoreAI.Project19_RecipeSuggestionAI\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T15:01:25.592Z",
+              "WhenOpened": "2026-07-12T20:42:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Models\\AIService.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project19_RecipeSuggestionAI\\Models\\AIService.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project19_RecipeSuggestionAI\\Models\\AIService.cs",
+              "RelativeToolTip": "NetCoreAI.Project19_RecipeSuggestionAI\\Models\\AIService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T20:21:55.996Z",
               "EditorCaption": ""
             }
           ]

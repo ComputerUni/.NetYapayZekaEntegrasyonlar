@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project3_RapidApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dd02e2d1bdb55ef8859af66476865e6f00bd66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8f07012266a5b1942519e28521830d8dbedcc718")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project3_RapidApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project3_RapidApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
