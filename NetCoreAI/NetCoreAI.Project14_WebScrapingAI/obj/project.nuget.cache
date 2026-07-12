@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "eyexK4zb+Mc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project14_WebScrapingAI\\NetCoreAI.Project14_WebScrapingAI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BURHAN\\.nuget\\packages\\htmlagilitypack\\1.12.4\\htmlagilitypack.1.12.4.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\microsoft.playwright\\1.61.0\\microsoft.playwright.1.61.0.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\BURHAN\\.nuget\\packages\\system.text.json\\6.0.10\\system.text.json.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project9_OpenAITranslate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46b9060b5f806f5a6de74ebbffe48693effaa31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f50c393614edec9fda1f832ff81097a0126445b9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project9_OpenAITranslate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project9_OpenAITranslate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

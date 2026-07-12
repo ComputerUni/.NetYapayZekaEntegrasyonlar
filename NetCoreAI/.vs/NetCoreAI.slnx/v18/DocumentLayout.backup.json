@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A962840-ABB1-4210-B4ED-1EA056D994DE}|NetCoreAI.Project13_ArticleSummarizeAI\\NetCoreAI.Project13_ArticleSummarizeAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project13_articlesummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3A962840-ABB1-4210-B4ED-1EA056D994DE}|NetCoreAI.Project13_ArticleSummarizeAI\\NetCoreAI.Project13_ArticleSummarizeAI.csproj|solutionrelative:netcoreai.project13_articlesummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2B15826-25C7-4F96-91F0-067063AD0199}|NetCoreAI.Project12_SentimentAnalyzer\\NetCoreAI.Project12_SentimentAnalyzer.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project12_sentimentanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2B15826-25C7-4F96-91F0-067063AD0199}|NetCoreAI.Project12_SentimentAnalyzer\\NetCoreAI.Project12_SentimentAnalyzer.csproj|solutionrelative:netcoreai.project12_sentimentanalyzer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B777F15-9A0F-4AF2-A787-95F5205EFDC9}|NetCoreAI.Project14_WebScrapingAI\\NetCoreAI.Project14_WebScrapingAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project14_webscrapingai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B777F15-9A0F-4AF2-A787-95F5205EFDC9}|NetCoreAI.Project14_WebScrapingAI\\NetCoreAI.Project14_WebScrapingAI.csproj|solutionrelative:netcoreai.project14_webscrapingai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,26 +36,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project13_ArticleSummarizeAI\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project13_ArticleSummarizeAI\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project13_ArticleSummarizeAI\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project13_ArticleSummarizeAI\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAnwBQAAABFAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project14_WebScrapingAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project14_WebScrapingAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project14_WebScrapingAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project14_WebScrapingAI\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T10:20:55.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project12_SentimentAnalyzer\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project12_SentimentAnalyzer\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project12_SentimentAnalyzer\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project12_SentimentAnalyzer\\Program.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAmwHUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T08:41:27.466Z",
+              "WhenOpened": "2026-07-12T11:08:51.395Z",
               "EditorCaption": ""
             }
           ]
