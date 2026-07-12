@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{769022F1-740B-4D75-A7E1-F8BF9DE186C5}|NetCoreAI.Project18_CreateStoryAI\\NetCoreAI.Project18_CreateStoryAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project18_createstoryai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{769022F1-740B-4D75-A7E1-F8BF9DE186C5}|NetCoreAI.Project18_CreateStoryAI\\NetCoreAI.Project18_CreateStoryAI.csproj|solutionrelative:netcoreai.project18_createstoryai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73F51F28-1350-4B92-816D-8797FAFF245B}|NetCoreAI.Project17_NewsSummarizeAI\\NetCoreAI.Project17_NewsSummarizeAI.csproj|c:\\users\\burhan\\desktop\\netcoreai\\netcoreai\\netcoreai.project17_newssummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73F51F28-1350-4B92-816D-8797FAFF245B}|NetCoreAI.Project17_NewsSummarizeAI\\NetCoreAI.Project17_NewsSummarizeAI.csproj|solutionrelative:netcoreai.project17_newssummarizeai\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 603,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +35,37 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T15:07:26.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project18_CreateStoryAI\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreAI.Project18_CreateStoryAI\\Program.cs",
+              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project18_CreateStoryAI\\Program.cs",
+              "RelativeToolTip": "NetCoreAI.Project18_CreateStoryAI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-12T15:01:25.592Z",
+              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedWidth": 603,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 571,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,19 +78,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "RelativeDocumentMoniker": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "ToolTip": "C:\\Users\\BURHAN\\Desktop\\NetCoreAI\\NetCoreAI\\NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "RelativeToolTip": "NetCoreAI.Project17_NewsSummarizeAI\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-12T13:49:32.383Z",
-              "EditorCaption": ""
             }
           ]
         }

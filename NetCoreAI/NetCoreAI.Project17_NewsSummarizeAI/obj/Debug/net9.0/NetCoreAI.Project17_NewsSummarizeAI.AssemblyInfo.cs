@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NetCoreAI.Project17_NewsSummarizeAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e5fe70e7aa552a37fcb4fcf292e84129ca66c0f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22dd02e2d1bdb55ef8859af66476865e6f00bd66")]
 [assembly: System.Reflection.AssemblyProductAttribute("NetCoreAI.Project17_NewsSummarizeAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NetCoreAI.Project17_NewsSummarizeAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

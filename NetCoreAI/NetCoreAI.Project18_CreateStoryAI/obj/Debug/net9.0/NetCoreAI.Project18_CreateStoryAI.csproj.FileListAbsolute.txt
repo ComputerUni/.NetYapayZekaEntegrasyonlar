@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\bin\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.exe
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\bin\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\bin\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\bin\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\bin\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\refint\NetCoreAI.Project18_CreateStoryAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\NetCoreAI.Project18_CreateStoryAI.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project18_CreateStoryAI\obj\Debug\net9.0\ref\NetCoreAI.Project18_CreateStoryAI.dll
