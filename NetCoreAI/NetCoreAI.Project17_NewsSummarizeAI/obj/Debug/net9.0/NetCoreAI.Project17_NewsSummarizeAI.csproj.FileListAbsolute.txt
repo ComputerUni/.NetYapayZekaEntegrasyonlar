@@ -1,0 +1,15 @@
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.exe
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.deps.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.runtimeconfig.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\bin\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.AssemblyInfoInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.AssemblyInfo.cs
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.csproj.CoreCompileInputs.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.sourcelink.json
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\refint\NetCoreAI.Project17_NewsSummarizeAI.dll
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.pdb
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\NetCoreAI.Project17_NewsSummarizeAI.genruntimeconfig.cache
+C:\Users\BURHAN\Desktop\NetCoreAI\NetCoreAI\NetCoreAI.Project17_NewsSummarizeAI\obj\Debug\net9.0\ref\NetCoreAI.Project17_NewsSummarizeAI.dll
